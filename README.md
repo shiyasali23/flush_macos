@@ -7,4 +7,8 @@ This repository contains a Bash script for cleaning up and optimizing macOS. It 
 1. Make the script executable:
    ```bash
    chmod +x flush.sh
+2. Run the script
+   ```bash
+   ./flush.sh
+
 
